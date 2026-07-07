@@ -22,19 +22,6 @@ A Python-based automation project that simplifies job searching and applications
 - Requests library  
 
 
-## Project Structure
-
-
-JobAutomation/
-│
-├── main.py
-├── search.py
-├── gmail.py 
-├── config.py
-├── resume.pdf 
-├── applied_jobs.txt 
-
-
 ##  How It Works
 
 1. Fetch jobs from Adzuna API  
